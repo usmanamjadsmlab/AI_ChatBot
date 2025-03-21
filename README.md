@@ -20,7 +20,7 @@ This is an AI-powered chatbot built using the Gemini API. The chatbot provides i
 ## Installation & Setup
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/usmanamjadsmlab/AI_ChatBot.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
