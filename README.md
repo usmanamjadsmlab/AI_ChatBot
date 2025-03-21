@@ -7,11 +7,11 @@ This is an AI-powered chatbot built using the Gemini API. The chatbot provides i
 - **Conversational AI**: The chatbot understands and responds to user inputs using the Gemini API.
 - **User-Friendly Interface**: Designed with HTML and CSS for a clean and engaging UI.
 - **Responsive Design**: Works on both desktop and mobile devices.
-- **Dynamic Interactions**: JavaScript is used to handle API requests and display responses dynamically.
+- **Dynamic Interactions**: JavaScript handles API requests and dynamically displays responses.
 - **Open-Source**: Available on GitHub for improvements and contributions.
 
 ## Technologies Used
-- **HTML**: For structuring the chatbot interface.
+- **HTML**: This is used to structure the chatbot interface.
 - **CSS**: For styling and responsiveness.
 - **JavaScript**: For API integration and dynamic interactions.
 - **Gemini API**: For AI-powered responses.
@@ -62,14 +62,8 @@ Contributions are welcome! Follow these steps to contribute:
    ```sh
    git push origin feature-branch
    ```
-5. **Submit a pull request**.
 
 ## License
 This project is open-source and available under the **MIT License**.
-
-## Contact
-For any issues or suggestions, feel free to reach out:
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Email**: your-email@example.com
 
 
