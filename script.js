@@ -131,7 +131,7 @@ const handleFormSubmit = (e) => {
 
   setTimeout(() => {
     //Generate bot message HTML and add in the chats container after 600ms
-    const botMsgHTML = `<img src="./Image/gemini.svg" class="avatar"><p class="message-text">Just a Sec...</p>`;
+    const botMsgHTML = `<img src="Image/gemini.svg" class="avatar"><p class="message-text">Just a Sec...</p>`;
     const botMsgDiv = createMsgElement(botMsgHTML, "bot-message", "loading");
     chatsContainer.appendChild(botMsgDiv);
     scrollToBottom();
